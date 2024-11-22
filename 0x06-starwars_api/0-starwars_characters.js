@@ -21,5 +21,4 @@ request(`${endpoint}/films/${filmId}/`, async function (error, response, body) {
       });
     });
   }
-:x
-:x
+});
